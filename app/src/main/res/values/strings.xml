@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="action_settings">Settings</string>
+    <string name="button_text">Submit</string>
+    <string name="score_textview">Score:</string>
+    <string name="correct_textview">Correct:</string>
+    <string name="attempted_textview">Attempted:</string>
+</resources>
